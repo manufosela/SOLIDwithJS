@@ -52,3 +52,4 @@ multifunctionMachine1.print('Document');
 
 // It prints and scans, although the object has access to the fax functionality
 multifunctionMachine2.scan('Document');
+// multifunctionMachine2.fax('Document'); // This will throw an error
