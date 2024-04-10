@@ -4,7 +4,7 @@
 
 Este principio afirma que una clase debe tener solo una razón para cambiar, significando que debe tener solo una tarea o responsabilidad. La idea es minimizar la interdependencia y aumentar la cohesión.
 
-# O - Principio de Abierto/Cerrado (Open/Closed Principle)
+## O - Principio de Abierto/Cerrado (Open/Closed Principle)
 
 Según este principio, las entidades de software (clases, módulos, funciones, etc.) deben estar abiertas para la extensión, pero cerradas para la modificación. Esto significa que deberías poder agregar nuevas funcionalidades sin cambiar el código existente.
 
