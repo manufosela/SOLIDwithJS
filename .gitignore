@@ -1,0 +1,21 @@
+# Dependencias
+/node_modules
+
+# Archivos de construcción
+/dist
+/build
+
+# Archivos de configuración
+/.env
+
+# Archivos de registro
+/logs
+
+# Archivos de respaldo
+*.bak
+*.swp
+*.tmp
+
+# Archivos generados por IDEs
+.idea
+.vscode
