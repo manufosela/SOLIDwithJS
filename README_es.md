@@ -2,7 +2,7 @@
 
 ## S - Principio de Responsabilidad Única (Single Responsibility Principle)
 
-Este principio afirma que una clase debe tener solo una razón para cambiar, significando que debe tener solo una tarea o responsabilidad. La idea es minimizar la interdependencia y aumentar la cohesión.
+Este principio afirma que una clase debe tener solo una razón para cambiar, es decir, que debe tener solo una tarea o responsabilidad. La idea es minimizar la interdependencia y aumentar la cohesión.
 
 ## O - Principio de Abierto/Cerrado (Open/Closed Principle)
 
@@ -19,7 +19,6 @@ Este principio sostiene que los clientes no deberían ser forzados a depender de
 ## D - Principio de Inversión de Dependencias (Dependency Inversion Principle)
 
 El principio de inversión de dependencias dice que las dependencias dentro del sistema deben ser en dirección de los detalles a las abstracciones, no al revés. Los módulos de alto nivel no deben depender de módulos de bajo nivel, ambos deben depender de abstracciones.
-
 
 ## Ejemplos de cómo aplicar los principios SOLID en JavaScript
 
